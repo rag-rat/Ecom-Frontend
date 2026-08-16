@@ -26,7 +26,7 @@ const slides = [
     title: 'Power Up Your Setup',
     subtitle: 'Premium laptops starting at ₹39,999',
     cta: 'Shop Laptops',
-    link: '/products?category=Laptops',
+    link: '/products?categoryId=6a5bf5b454d15f717f482754',
     gradient: 'from-slate-900 via-slate-800 to-blue-900',
   },
   {
